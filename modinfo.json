@@ -6,10 +6,10 @@
       "version": "1.0.0",
       "compatibility": "w250",
       "description": "Move loaded storage, workbenches and supported processors without emptying them first. Preserves exact inventory slots, fuel, and carried contents.",
-      "imageURL": "https://github.com/BuggyGamesDev/Icarus-Mods/raw/main/Pickup_and_Move.png",
-      "readmeURL": "https://github.com/BuggyGamesDev/Icarus-Mods/raw/main/Pickup_and_Move.txt",
+      "imageURL": "https://github.com/BuggyGamesDev/Icarus-Mods/raw/main/Mods/Pickup-and-Move/Pickup_and_Move.png",
+      "readmeURL": "https://github.com/BuggyGamesDev/Icarus-Mods/raw/main/Mods/Pickup-and-Move/Pickup_and_Move.txt",
       "files": {
-        "exmodz": "https://github.com/BuggyGamesDev/Icarus-Mods/raw/main/Pickup_and_Move.EXMODZ"
+        "exmodz": "https://github.com/BuggyGamesDev/Icarus-Mods/raw/main/Mods/Pickup-and-Move/Pickup_and_Move.EXMODZ"
       }
     }
   ]
