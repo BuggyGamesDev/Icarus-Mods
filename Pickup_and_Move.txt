@@ -1,0 +1,26 @@
+Pickup and Move
+Version 1.0.0
+
+Move loaded storage, workbenches and supported processors without emptying them first.
+
+FEATURES
+
+- Pick Up and Move loaded storage, workbenches and supported processors.
+- Exact inventory restoration - items return to the same inventory slots they occupied before moving.
+- Tested with IMM 4x storage spaces.
+- Tested with fully occupied inventories of up to 210 slots.
+- Tested with Extra Space I and Extra Space II talents.
+- Carried contents add weight to the player while the deployable is being moved.
+- Displays a cargo box on the player's back while carrying a packed deployable.
+- Uses a fast 0.5-second pickup hold time.
+- Preserves fuel and auxiliary inventory slots when supported fuel-powered devices are moved.
+- Running supported fuel-powered devices are safely turned off for transport and remain off after redeploy - including the Biofuel Stove.
+- Includes non-nesting protection for packed storage.
+- Keeps normal vanilla Pickup separate from Pickup and Move.
+
+DEFAULT KEY = T
+
+The key can be rebound in Settings -> Controls.
+
+BUG REPORTS
+Website support page coming soon.
