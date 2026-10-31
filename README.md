@@ -6,5 +6,5 @@ Public ICARUS mod releases by **BuggyGamesDev**.
 
 Move loaded storage, workbenches and supported processors without emptying them first.
 
-Current release: **v1.0.0**  
-Tested through: **Week 250**
+Current release: **v1.1.2**  
+Tested through: **Week 256**
