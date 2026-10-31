@@ -1,10 +1,18 @@
 Pickup and Move
-Version 1.0.0
+Version 1.1.2
+ICARUS Week 256
 
 Move loaded storage, workbenches and supported processors without emptying them first.
 
-FEATURES
+WEEK 256 COMPATIBILITY UPDATE
 
+- Updated the player Blueprint for ICARUS Week 256, including a bugfix in version 1.1.2
+
+BUGFIXES
+1.1.2 - Fixed a bug where moved storage could disappear when loading a prospect without Pickup and Move enabled.
+1.1.1 - Fixed a bug that caused incorrect behavior with the Ice Box when using Pickup and Move, including contents being lost after redeploy.
+
+FEATURES
 - Pick Up and Move loaded storage, workbenches and supported processors.
 - Exact inventory restoration - items return to the same inventory slots they occupied before moving.
 - Tested with IMM 4x storage spaces.
@@ -15,12 +23,22 @@ FEATURES
 - Uses a fast 0.5-second pickup hold time.
 - Preserves fuel and auxiliary inventory slots when supported fuel-powered devices are moved.
 - Running supported fuel-powered devices are safely turned off for transport and remain off after redeploy - including the Biofuel Stove.
-- Includes non-nesting protection for packed storage.
+- Packed Pickup-and-Move items can be transferred to tame heavy-cargo slots.
+- Includes non-nesting protection for ordinary storage inventories.
 - Keeps normal vanilla Pickup separate from Pickup and Move.
 
-DEFAULT KEY = T
+PREVIOUSLY ADDED IN 1.1.0
+- Packed storage can now be carried in tame heavy-cargo slots.
 
-The key can be rebound in Settings -> Controls.
+INSTALLATION
+
+Import this source ZIP into a compatible ICARUS mod manager (IDM/IMM) and build/install the mod with that manager.
+For manual installation into the game mod folder, use the manager-generated PAK file ending in _P.pak; this source ZIP is not itself a runtime PAK.
+
+DEFAULT CONTROL = T
+The control can be rebound in Settings -> Controls
 
 BUG REPORTS
-Website support page coming soon.
+https://www.nexusmods.com/icarus/mods/338
+
+Pick it up. Move it. Keep everything inside.
