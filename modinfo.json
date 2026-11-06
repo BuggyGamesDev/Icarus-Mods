@@ -4,7 +4,7 @@
       "name": "Pickup and Move",
       "author": "BuggyGamesDev",
       "version": "1.1.2",
-      "compatibility": "w256",
+      "compatibility": "w257",
       "description": "Move loaded storage, workbenches and supported processors without emptying them first. Preserves exact inventory slots, fuel, and carried contents.",
       "imageURL": "https://github.com/BuggyGamesDev/Icarus-Mods/raw/main/Mods/Pickup-and-Move/Pickup_and_Move.png",
       "readmeURL": "https://github.com/BuggyGamesDev/Icarus-Mods/raw/main/Mods/Pickup-and-Move/Pickup_and_Move.txt",
