@@ -1,12 +1,12 @@
 Pickup and Move
 Version 1.1.2
-ICARUS Week 256
+ICARUS Week 257
 
 Move loaded storage, workbenches and supported processors without emptying them first.
 
-WEEK 256 COMPATIBILITY UPDATE
+WEEK 257 COMPATIBILITY UPDATE
 
-- Updated the player Blueprint for ICARUS Week 256, including a bugfix in version 1.1.2
+- Updated the player Blueprint for ICARUS Week 257
 
 BUGFIXES
 1.1.2 - Fixed a bug where moved storage could disappear when loading a prospect without Pickup and Move enabled.
