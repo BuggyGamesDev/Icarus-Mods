@@ -1,11 +1,11 @@
 Pickup and Move
 Version 1.1.2
-ICARUS Week 259
+ICARUS Week 260
 
 Move loaded storage, workbenches and supported processors without emptying them first.
 
-WEEK 259 COMPATIBILITY UPDATE
-- No changes from week 258, playtested and confirmed working with week 259
+WEEK 260 COMPATIBILITY UPDATE
+- No gameplay changes from Week 259. Mod is playtested and confirmed working with week 260
 
 BUGFIXES
 1.1.2 - Fixed four incorrect blueprint offsets that could cause a crash
